@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm Ankit 👋
 
-<!--
-**Ordinary-Boy20/Ordinary-Boy20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Aspiring Software Engineer | NIT Agartala
+💻 Full-Stack Developer (React.js, Node.js)
+🧠 Solved 150+ DSA Problems
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔥 What I’m Currently Doing
+
+* Building a Coding Challenge Platform (LeetCode-style)
+* Strengthening DSA for top tech interviews
+* Learning backend architecture & scalability
+
+---
+
+## 🛠 Tech Stack
+
+* Languages: C++, JavaScript, Python
+* Frontend: React.js, HTML, CSS
+* Backend: Node.js, Express.js
+* Tools: Git, GitHub, Postman
+
+---
+
+## 📌 Featured Projects
+
+🔹 Coding Challenge Platform
+🔹 Portfolio Website
+
+---
+
+## 📫 Connect with Me
+
+LinkedIn: https://www.linkedin.com/in/ankit-kumar-3554aa345/
